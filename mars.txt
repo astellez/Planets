@@ -1,3 +1,4 @@
 testing
 Mars is cool
 very low humidity
+Maybe I should start with a base on venus
